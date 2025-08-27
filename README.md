@@ -15,7 +15,7 @@
 ---
 
 ## Featured Projects  
- Neighborhood Connect --  (https://github.com/Lornangari/neighborhood-connect)  
+ Neighborhood Connect -- (https://github.com/Lornangari/neighborhood-connect-frontend.git) | (https://github.com/Lornangari/neighborhood-connect-backend.git)  
 A community-driven platform to connect residents, share events, and resources. Built with Django & React.  
 
  Recipe App   -- (https://github.com/Lornangari/recipe-app)  
