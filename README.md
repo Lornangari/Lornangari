@@ -15,13 +15,13 @@
 ---
 
 ## Featured Projects  
- [Neighborhood Connect](https://github.com/Lornangari/neighborhood-connect)  
+ Neighborhood Connect --  (https://github.com/Lornangari/neighborhood-connect)  
 A community-driven platform to connect residents, share events, and resources. Built with Django & React.  
 
- [Recipe App](https://github.com/Lornangari/recipe-app)  
+ Recipe App   -- (https://github.com/Lornangari/recipe-app)  
 Search recipes, save favorites, and share community recipes. Built with React, Tailwind CSS, Firebase, and external APIs.  
 
- [Online Bookstore](https://github.com/Lornangari/online-bookstore)  
+ Online Bookstore --  (https://github.com/Lornangari/capstone-project1.git)  
 E-commerce bookstore with search, cart, and checkout features.  
 
 ---
