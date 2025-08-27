@@ -27,8 +27,7 @@ E-commerce bookstore with search, cart, and checkout features.
 ---
 
 ##  Let’s Connect  
--  LinkedIn: (www.linkedin.com/in/lorna-ngari)  
--  Portfolio Website: ()  
+-  LinkedIn: (www.linkedin.com/in/lorna-ngari)   
 -  Email: **lornangari@gmail.com**  
 
 ---
