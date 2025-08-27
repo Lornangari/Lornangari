@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Lorna Ngari  
 
 <!--
-**Lornangari/Lornangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Fullstack Developer** passionate about building responsive, scalable, and user-friendly web applications.  
+ Skilled in **React, Django, PostgreSQL, JavaScript, Tailwind CSS**, and modern web technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tech Stack  
+- **Frontend:** React, JavaScript, Tailwind CSS, HTML, CSS  
+- **Backend:** Django, REST APIs, Python  
+- **Database:** PostgreSQL, SQLite, MongoDB  
+- **Tools:** Git, GitHub, Vercel, Render, Firebase  
+
+---
+
+## Featured Projects  
+ [Neighborhood Connect](https://github.com/Lornangari/neighborhood-connect)  
+A community-driven platform to connect residents, share events, and resources. Built with Django & React.  
+
+ [Recipe App](https://github.com/Lornangari/recipe-app)  
+Search recipes, save favorites, and share community recipes. Built with React, Tailwind CSS, Firebase, and external APIs.  
+
+ [Online Bookstore](https://github.com/Lornangari/online-bookstore)  
+E-commerce bookstore with search, cart, and checkout features.  
+
+---
+
+##  Let’s Connect  
+-  LinkedIn: (www.linkedin.com/in/lorna-ngari)  
+-  Portfolio Website: ()  
+-  Email: **lornangari@gmail.com**  
+
+---
+ Feel free to check out my repositories and connect with me!
+
+ 
 -->
